@@ -193,7 +193,7 @@ h1 {
 .slideshowsmall {
   display: flex;
   width: 100%;
-  animation: slide 5s infinite alternate;
+  animation: slide 20s infinite alternate;
 }
 
 .slideshowsmall img {
